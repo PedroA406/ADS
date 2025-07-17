@@ -1,0 +1,38 @@
+Comandos GitHub
+
+git status (estado do projeto no repositorio)
+Your branch 'origin\main'(não mudeou nada )
+
+
+git remote -v (lista de repositórios remotos, fetch, push)
+
+git diff index.html (ver diferença)
+
+git add index.html (adicionar, sinalizar para envio) 
+
+git restore --staged index.html (voltar para not stage)
+
+git commit -m 'mensagem sobre codigo' (Enviando com mensagem, so manda para Branch do github)
+
+git push 
+
+git add . (manda tudo)
+
+cat .gitignore 
+
+git log (histórico de comits)
+
+git blame arquivo
+git stash push -m 'salvar temporariamente'
+
+git stash list (no stash trabalho)
+
+git stash apply 0
+git stash pop 
+
+
+
+
+
+
+
